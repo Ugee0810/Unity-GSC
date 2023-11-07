@@ -1,3 +1,6 @@
 [submodule "Unity-LibModules"]
 	path = Unity-LibModules
 	url = https://github.com/Ugee0810/Unity-LibModules
+[submodule "UnityLibModules"]
+	path = UnityLibModules
+	url = https://github.com/Ugee0810/Unity-LibModules
