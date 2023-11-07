@@ -1,11 +1,5 @@
 {
   "dependencies": {
-    "com.ugee0810.unitylibmodules": {
-      "version": "file:C:/Users/shu99/OneDrive/바탕 화면/Projects/Unity-Gwacheon/Unity-LibModules",
-      "depth": 0,
-      "source": "local",
-      "dependencies": {}
-    },
     "com.unity.burst": {
       "version": "1.8.9",
       "depth": 1,
