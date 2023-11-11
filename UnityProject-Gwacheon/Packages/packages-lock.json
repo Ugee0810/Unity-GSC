@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "com.ugee0810.unitygwacheonresources": {
+      "version": "file:../../Unity-Gwacheon-Resources",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
     "com.ugee0810.unitylibmodules": {
       "version": "file:../../UnityLibModules",
       "depth": 0,
