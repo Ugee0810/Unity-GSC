@@ -4,3 +4,6 @@
 [submodule "UnityLibModules"]
 	path = UnityLibModules
 	url = https://github.com/Ugee0810/Unity-LibModules
+[submodule "Unity-Gwacheon-Resources"]
+	path = Unity-Gwacheon-Resources
+	url = https://github.com/Ugee0810/Unity-Gwacheon-Resources
