@@ -1,3 +1,6 @@
-[submodule "Unity-LibModules"]
-	path = Unity-LibModules
+[submodule "01.Resources_GSC"]
+	path = 01.Resources_GSC
+	url = https://github.com/Ugee0810/Unity-GSC-Resources
+[submodule "02.LibModules"]
+	path = 02.LibModules
 	url = https://github.com/Ugee0810/Unity-LibModules
