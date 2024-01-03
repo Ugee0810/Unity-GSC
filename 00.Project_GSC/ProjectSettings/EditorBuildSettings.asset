@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Projects/XX.Etc/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Projects/01.Beacon Signal/Beacon Signal.unity
+    guid: 7be6054d0402d45e6b45be23c7424bf9
+  - enabled: 1
+    path: Assets/Projects/02.Archery/Archery.unity
+    guid: f3721c15b00664d2a8f6c01bc2d6cf85
+  - enabled: 1
+    path: Assets/Projects/03.Cannon/Cannon.unity
+    guid: 9e34a89ee40444b53b22df757346f342
   m_configObjects: {}
